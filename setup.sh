@@ -8,7 +8,7 @@
 # --- CONFIGURATION ---
 # IMPORTANT: Change this URL to point to your own GitHub repository where you will store the script files.
 # The structure should be: YourRepo/main/FOLDER/SCRIPT_NAME
-REPO_URL="https://raw.githubusercontent.com/goodyog/AIO-Autoscript/main"
+REPO_URL="http://vault.thetechsavage.org.ng/premium"
 
 # --- COLORS & STYLING ---
 RED='\033[0;31m'
